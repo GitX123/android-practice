@@ -8,6 +8,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import com.example.flowpractice.ui.FlowScreen
+import com.example.flowpractice.ui.StateFlowScreen
 import com.example.flowpractice.ui.theme.FlowPracticeTheme
 
 class MainActivity : ComponentActivity() {
@@ -20,7 +21,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    FlowScreen()
+                    StateFlowScreen()
                 }
             }
         }
