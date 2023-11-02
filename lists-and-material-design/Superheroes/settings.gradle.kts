@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "theme-superheroes"
+rootProject.name = "Superheroes"
 include(":app")

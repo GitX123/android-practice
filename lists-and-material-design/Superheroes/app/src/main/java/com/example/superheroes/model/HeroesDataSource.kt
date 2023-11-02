@@ -1,6 +1,6 @@
-package com.example.theme_superheroes.model
+package com.example.superheroes.model
 
-import com.example.theme_superheroes.R
+import com.example.superheroes.R
 
 object HeroesRepository {
     val heroes = listOf(

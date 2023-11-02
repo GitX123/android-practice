@@ -1,4 +1,4 @@
-package com.example.theme_superheroes.ui.theme
+package com.example.superheroes.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

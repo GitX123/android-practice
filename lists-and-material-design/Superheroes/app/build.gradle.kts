@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.theme_superheroes"
+    namespace = "com.example.superheroes"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.theme_superheroes"
+        applicationId = "com.example.superheroes"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

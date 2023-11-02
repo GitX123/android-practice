@@ -1,4 +1,4 @@
-package com.example.theme_superheroes
+package com.example.superheroes
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

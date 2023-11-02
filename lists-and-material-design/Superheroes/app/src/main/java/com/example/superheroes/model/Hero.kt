@@ -1,4 +1,4 @@
-package com.example.theme_superheroes.model
+package com.example.superheroes.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes

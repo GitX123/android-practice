@@ -1,4 +1,4 @@
-package com.example.theme_superheroes
+package com.example.superheroes
 
 import org.junit.Test
 
